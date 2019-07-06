@@ -2,6 +2,8 @@
 
 Easily control complex css animations using this tiny utility class (under 4kb!)
 
+<img src="https://thumbs.gfycat.com/PleasedFarBlackandtancoonhound.webp" />
+
 ## Features
  - Easy, fluent syntax
  - Method chaining supported
