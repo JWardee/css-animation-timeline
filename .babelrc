@@ -8,6 +8,7 @@
     },
     "production": {
       "presets": ["env", "minify"],
+      "comments": false,
       "plugins": [
         "add-module-exports"
       ]
