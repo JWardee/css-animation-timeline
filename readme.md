@@ -1,6 +1,6 @@
 # CSS Animation Timeline
 
-Easily control complex css animations using this tiny utility class (under 4kb!)
+Easily control complex css animations using this tiny utility class (2.5kb!)
 
 <img src="https://thumbs.gfycat.com/PleasedFarBlackandtancoonhound.webp" />
 
