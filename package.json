@@ -1,0 +1,25 @@
+{
+  "name": "css-animation-timeline",
+  "version": "1.0.0",
+  "description": "Easily control complex css animations using this tiny utility class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWardee/css-animation-timeline.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "animation",
+    "timeline"
+  ],
+  "author": "James Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWardee/css-animation-timeline/issues"
+  },
+  "homepage": "https://github.com/JWardee/css-animation-timeline#readme"
+}
