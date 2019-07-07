@@ -4,12 +4,7 @@ Easily control complex css animations using this tiny utility class (4kb!)
 
 <img src="https://thumbs.gfycat.com/PleasedFarBlackandtancoonhound.webp" />
 
-<p class="codepen" data-height="218" data-theme-id="dark" data-default-tab="js,result" data-user="JWardee" data-slug-hash="agaXrW" style="height: 218px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="CSS Animation Timeline Demo">
-  <span>See the Pen <a href="https://codepen.io/JWardee/pen/agaXrW/">
-  CSS Animation Timeline Demo</a> by James (<a href="https://codepen.io/JWardee">@JWardee</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+View example on [Codepen](https://codepen.io/JWardee/pen/agaXrW/)
 
 ## Features
  - Easy, fluent syntax
