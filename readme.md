@@ -55,3 +55,7 @@ export default {
 1. Pull the repo and run `npm install`
 2. Ensure your code passes linting by running `npm run lint`
 3. Submit your pull request!
+
+## Extra resources
+- View example on [Codepen](https://codepen.io/JWardee/pen/agaXrW/)
+- View [NPM page](https://www.npmjs.com/package/css-animation-timeline)
