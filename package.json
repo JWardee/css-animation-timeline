@@ -1,8 +1,8 @@
 {
   "name": "css-animation-timeline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easily control complex css animations using this tiny utility class (Under 4kb!)",
-  "main": "./dist/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "lint": "eslint src",
     "build": "cross-env BABEL_ENV=production babel src --out-dir dist",
