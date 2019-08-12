@@ -1,4 +1,4 @@
-export default class CssAnimationTimeline {
+module.exports = class CssAnimationTimeline {
   constructor() {
     this._isPlaying = false;
     this._keyframes = [];
