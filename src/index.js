@@ -22,15 +22,24 @@ module.exports = class CssAnimationTimeline {
   }
 
   add(selector, classToAdd, staggerEach = 0) {
-    document.querySelectorAll(selector) // eslint-disable-line no-undef
-      .forEach((el) => {
-        this._keyframes.push({
-          type: 'animate',
-          el,
-          classToAdd,
-          staggerEach,
-        });
+    if (selector instanceof HTMLElement) {
+      this._keyframes.push({
+        type: 'animate',
+        el: selector,
+        classToAdd,
+        staggerEach,
       });
+    } else {
+      document.querySelectorAll(selector) // eslint-disable-line no-undef
+          .forEach((el) => {
+            this._keyframes.push({
+              type: 'animate',
+              el,
+              classToAdd,
+              staggerEach,
+            });
+          });
+    }
 
     /** Allow method chaining */
     return this;
