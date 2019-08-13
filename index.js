@@ -30,7 +30,7 @@ module.exports = class CssAnimationTimeline {
         staggerEach,
       });
     } else {
-      document.querySelectorAll(selector) // eslint-disable-line no-undef
+      document.querySelectorAll(selector)
           .forEach((el) => {
             this._keyframes.push({
               type: 'animate',
