@@ -1,10 +1,10 @@
 {
   "name": "css-animation-timeline",
-  "version": "1.0.5",
-  "description": "Easily control complex css animations using this tiny utility class (Under 4kb!)",
-  "main": "src/index.js",
+  "version": "1.0.6",
+  "description": "Easily control complex css animations using this tiny utility class (Under 3kb!)",
+  "main": "dist/index.js",
   "files": [
-    "src/index.js"
+    "dist/index.js"
   ],
   "keywords": [
     "js",
