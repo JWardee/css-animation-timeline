@@ -42,3 +42,5 @@ yarn.lock
 
 others
 .DS_Store
+
+dist

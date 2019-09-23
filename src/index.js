@@ -147,4 +147,4 @@ module.exports = class CssAnimationTimeline {
       setTimeout(eventFunctionTrigger, keyframe.staggerEach);
     }
   }
-}
+};

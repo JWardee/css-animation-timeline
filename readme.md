@@ -1,6 +1,6 @@
 # CSS Animation Timeline
 
-Easily control complex css animations using this tiny utility class (4kb!)
+Easily control complex css animations using this tiny utility class (3kb!)
 
 <img src="https://thumbs.gfycat.com/PleasedFarBlackandtancoonhound.webp" />
 
@@ -14,7 +14,14 @@ View example on [Codepen](https://codepen.io/JWardee/pen/agaXrW/)
  - Any [valid css selector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll#Parameters) can be used to specify elements
 
 ## Getting started
-You can either import the library or get a production copy of the code from the `dist/index.js` file in this repo
+Install the library from npm
+
+```bash
+npm i css-animation-timeline
+```
+
+Then import it into your project
+
 ```javascript
 import CssAnimationTimeline from 'css-animation-timeline';
 ```

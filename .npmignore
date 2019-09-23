@@ -21,3 +21,4 @@ CHANGELOG.md
 .eslintrc
 .babelrc
 .gitignore
+src
